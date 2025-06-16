@@ -33,7 +33,7 @@
 
 ---
 
-## 🐍 <span style="color:#00FF00;">Snake Game (contribuições animadas)</span>
+## 🐍 <span style="color:#00FF00;">Snake Game Bro!</span>
 
 ![snake gif](https://github.com/CaduGrana/CaduGrana/blob/output/github-contribution-grid-snake.svg)
 
