@@ -1,42 +1,39 @@
-<p align="left">
-  ### Hey, folks! 👋<br><br>
-  - 🔭 I’m currently working on my personal projects based on JavaScript<br>
-  - 🌱 I'm always interested in learning about new tech.<br>
-  - 👯 I’m looking to collaborate on frontend development-based projects.<br>
-  - 📫 How to reach me: edugrana73@outlook.com
-</p>
+# Olá, eu sou o Eduardo Grana 👋
 
-<br clear="both">
+## 👨‍💻 Sobre mim
 
-<div align="right">
-  <img height="150" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" />
-</div>
+- 🔭 Atualmente, estou trabalhando em projetos pessoais com JavaScript.
+- 🌱 Sempre em busca de aprender novas tecnologias.
+- 🤝 Buscando colaborar em projetos de desenvolvimento frontend.
+- 📫 Como me encontrar: [edugrana73@outlook.com](mailto:edugrana73@outlook.com)
 
-<h3 align="left">🔥 My Stats :</h3>
+## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaduGrana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaduGrana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=CaduGrana&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaduGrana&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CaduGrana&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
-<br clear="both">
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduGrana&layout=compact&theme=radical)
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-light.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=CaduGrana&theme=radical)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
-</div>
+![Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=CaduGrana&theme=github)
+
+## 🛠️ Tecnologias & Ferramentas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-ffcc00?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-61dafb?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-c21325?style=flat&logo=jest)
+![Storybook](https://img.shields.io/badge/-Storybook-f7b700?style=flat&logo=storybook)
+
+## 📌 Projetos em Destaque
+
+- [Projeto 1](https://github.com/CaduGrana/projeto1): Descrição breve do projeto.
+- [Projeto 2](https://github.com/CaduGrana/projeto2): Descrição breve do projeto.
+- [Projeto 3](https://github.com/CaduGrana/projeto3): Descrição breve do projeto.
+
+## 📬 Entre em contato
+
+- [LinkedIn](https://www.linkedin.com/in/eduardograna)
+- [Twitter](https://twitter.com/CaduGrana)
+- [Website](https://www.cadugrana.dev)
+
