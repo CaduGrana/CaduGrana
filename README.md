@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou o Eduardo Grana
+# 👋 Olá, sou o Eduardo Grana
 
-## 💬 Sobre mim
+## 👨‍💻 Sobre mim
 
-🎯 Desenvolvedor focado em tecnologias web, principalmente JavaScript e React.  
-🚀 Apaixonado por criar soluções eficientes e com bom design.  
-📚 Sempre aprendendo e buscando contribuir com a comunidade.
+- 🎯 Desenvolvedor focado em JavaScript e React.
+- 🌱 Sempre aprendendo novas tecnologias e boas práticas.
+- 📫 Contato: [edugrana73@outlook.com](mailto:edugrana73@outlook.com)
 
 ---
 
@@ -13,52 +13,42 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat&logo=storybook)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📈 GitHub Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaduGrana&show_icons=true&theme=tokyonight&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CaduGrana&show_icons=true&theme=radical&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduGrana&layout=compact&theme=tokyonight)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduGrana&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CaduGrana&theme=tokyonight&hide_border=true)
-
----
-
-## 🧠 Atualmente aprendendo
-
-- Frameworks modernos
-- Testes automatizados com Jest
-- Boas práticas com TypeScript
+![Streak](https://streak-stats.demolab.com?user=CaduGrana&theme=radical&hide_border=true)
 
 ---
 
-## 📁 Repositórios em destaque
+## 🎮 Snake Game
 
-🔗 [Nome do Projeto 1](https://github.com/CaduGrana/Projeto1)  
-Descrição rápida sobre funcionalidades e tecnologias.
+> A cobrinha comendo o gráfico de contribuições (gerado por GitHub Actions)
 
-🔗 [Nome do Projeto 2](https://github.com/CaduGrana/Projeto2)  
-Descrição rápida sobre funcionalidades e tecnologias.
+![snake gif](https://github.com/CaduGrana/CaduGrana/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Contato
+## 📌 Projetos em Destaque
 
-- ✉️ Email: [edugrana73@outlook.com](mailto:edugrana73@outlook.com)
-- 💼 LinkedIn: [linkedin.com/in/eduardograna](https://www.linkedin.com/in/eduardograna/)
-- 🧑‍💻 GitHub: [github.com/CaduGrana](https://github.com/CaduGrana)
+- [Projeto 1](https://github.com/CaduGrana/Projeto1): descrição breve.
+- [Projeto 2](https://github.com/CaduGrana/Projeto2): descrição breve.
 
 ---
 
-<!-- Visitantes -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaduGrana&label=Visualizações&color=blue" alt="Visualizações do perfil"/>
-</p>
+## 📬 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/eduardograna)
+- [GitHub](https://github.com/CaduGrana)
 
 
