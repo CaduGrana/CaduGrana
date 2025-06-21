@@ -34,7 +34,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=CaduGrana&theme=radical&hide_border=true)
 
-
 ---
 
 ## 📌 <span style="color:#00D8FF;">Projetos em Destaque</span>
