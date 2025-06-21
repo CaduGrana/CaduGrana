@@ -46,9 +46,6 @@
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
   Plataforma de agendamento online flexível, adaptável para diversos segmentos como salões de beleza, barbearias, estúdios de tatuagem e consultórios odontológicos.
 
-- [![Projeto 1](https://img.shields.io/badge/Projeto%201-React%20%26%20styled--components-yellow?style=flat&logo=react&logoColor=white)](https://github.com/CaduGrana/Projeto1)  
-  Aplicação frontend com React e styled-components.
-
 - [![Projeto 2](https://img.shields.io/badge/Projeto%202-JWT%20%26%20RESTful-green?style=flat&logo=jwt&logoColor=white)](https://github.com/CaduGrana/Projeto2)  
   Sistema de autenticação com JWT e integração RESTful.
 
