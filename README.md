@@ -44,6 +44,9 @@
 - [Projeto 2](https://github.com/CaduGrana/Projeto2)  
   <span style="color:#00FF00;">Sistema de autenticação com JWT e integração RESTful.</span>
 
+- [Portfólio Power BI](https://sites.google.com/view/portifolioedugrana/inicio)  
+  <span style="color:#00D8FF;">Dashboards interativos desenvolvidos para análise estratégica e suporte à tomada de decisões.</span>
+
 ---
 
 ## 🌐 <span style="color:#FFFF00;">Onde me encontrar</span>
