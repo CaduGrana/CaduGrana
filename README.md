@@ -38,14 +38,17 @@
 
 ## 📌 <span style="color:#00D8FF;">Projetos em Destaque</span>
 
-- [Projeto 1](https://github.com/CaduGrana/Projeto1)  
-  <span style="color:#F7DF1E;">Aplicação frontend com React e styled-components.</span>
+## 📌 Projetos em Destaque
 
-- [Projeto 2](https://github.com/CaduGrana/Projeto2)  
-  <span style="color:#00FF00;">Sistema de autenticação com JWT e integração RESTful.</span>
+- [![Projeto 1](https://img.shields.io/badge/Projeto%201-React%20%26%20styled--components-yellow?style=flat&logo=react&logoColor=white)](https://github.com/CaduGrana/Projeto1)  
+  Aplicação frontend com React e styled-components.
+
+- [![Projeto 2](https://img.shields.io/badge/Projeto%202-JWT%20%26%20RESTful-green?style=flat&logo=jwt&logoColor=white)](https://github.com/CaduGrana/Projeto2)  
+  Sistema de autenticação com JWT e integração RESTful.
 
 - [![Portfólio Power BI](https://img.shields.io/badge/Portfólio-Power%20BI-blue?style=flat&logo=microsoftpowerbi&logoColor=white)](https://sites.google.com/view/portifolioedugrana/inicio)  
-  <span style="color:#00D8FF;">Dashboards interativos desenvolvidos para análise estratégica e suporte à tomada de decisões.</span>
+  Dashboards interativos desenvolvidos para análise estratégica e suporte à tomada de decisões.
+
 
 ---
 
