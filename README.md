@@ -3,10 +3,13 @@
 # 👋 <span style="color:#F7DF1E;">Olá, sou o Eduardo Grana</span>
 
 ## 👨‍💻 <span style="color:#00D8FF;">Sobre mim</span>
+<span style="color:#00FF00;">🎯 Desenvolvedor especializado em JavaScript e React, com experiência prática na criação de aplicações web modernas, responsivas e eficientes.</span>
 
-- <span style="color:#00FF00;">🎯 Desenvolvedor focado em JavaScript e React.</span>  
-- <span style="color:#FFFF00;">🌱 Sempre aprendendo novas tecnologias e boas práticas.</span>  
-- <span style="color:#00D8FF;">📫 Contato: <a href="mailto:edugrana73@outlook.com" style="color:#00D8FF;">edugrana73@outlook.com</a></span>
+<span style="color:#FFFF00;">🌱 Apaixonado por aprendizado contínuo, estou sempre explorando novas tecnologias, metodologias ágeis e boas práticas para entregar código limpo e de alta qualidade.</span>
+
+<span style="color:#00D8FF;">🚀 Tenho como objetivo contribuir para projetos desafiadores que impactem positivamente usuários, aprimorando habilidades em desenvolvimento frontend e expandindo conhecimentos em backend.</span>
+
+<span style="color:#00D8FF;">📫 Entre em contato: <a href="mailto:edugrana73@outlook.com" style="color:#00D8FF;">edugrana73@outlook.com</a></span>
 
 ---
 
