@@ -38,7 +38,13 @@
 
 ## 📌 <span style="color:#00D8FF;">Projetos em Destaque</span>
 
-## 📌 Projetos em Destaque
+- [![Projeto Agendamentos Online](https://img.shields.io/badge/Projeto%20Agendamentos%20Online-blue?style=flat&logo=github)](https://github.com/CaduGrana/agenda-flexivel-online)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/) 
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/) 
+  [![React](https://img.shields.io/badge/React-00D8FF?style=flat&logo=react&logoColor=000)](https://react.dev/) 
+  [![shadcn-ui](https://img.shields.io/badge/shadcn--ui-000000?style=flat&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/) 
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+  Plataforma de agendamento online flexível, adaptável para diversos segmentos como salões de beleza, barbearias, estúdios de tatuagem e consultórios odontológicos.
 
 - [![Projeto 1](https://img.shields.io/badge/Projeto%201-React%20%26%20styled--components-yellow?style=flat&logo=react&logoColor=white)](https://github.com/CaduGrana/Projeto1)  
   Aplicação frontend com React e styled-components.
