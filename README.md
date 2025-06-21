@@ -33,7 +33,7 @@
 
 ---
 
-## 🐍 <span style="color:#00FF00;"> É o jogo da cobrinha!! 😁 </span>
+## 🐍 <span style="color:#00FF00;">É o jogo da cobrinha!! 😁</span>
 
 ![snake gif](https://github.com/CaduGrana/CaduGrana/blob/output/github-contribution-grid-snake.svg)
 
@@ -52,6 +52,7 @@
 ## 🌐 <span style="color:#FFFF00;">Onde me encontrar</span>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardograna/)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/CaduGrana)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/CaduGrana)  
+[![Portfólio Power BI](https://img.shields.io/badge/Portfólio-Power%20BI-blue?style=flat&logo=microsoftpowerbi&logoColor=white)](https://sites.google.com/view/portifolioedugrana/inicio)
 
 </div>
